@@ -43,7 +43,3 @@ This course provides both theoretical and practical knowledge in financial econo
 ---
 """
 
-# Ghi nội dung vào cuối file README.md
-with open("README.md", "a", encoding="utf-8") as f:
-    f.write("\n")
-    f.write(summary)
