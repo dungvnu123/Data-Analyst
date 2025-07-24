@@ -1,5 +1,4 @@
-# Nội dung tóm tắt muốn thêm vào README.md
-summary = """
+
 ## 📘 Course Summary: Econometrics for Economics and Finance Professionals
 
 This course provides both theoretical and practical knowledge in financial econometrics, including:
